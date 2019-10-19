@@ -1,0 +1,11 @@
+//instalação no react
+sudo npm i -g create-react-app
+
+//criando aplicativo react
+ sudo create-react-app oficina-js
+
+ //baixar o reactstrap
+ sudo npm i -S reactstrap
+
+ //baixando o bootstrap
+ sudo npm i -S bootstrap
